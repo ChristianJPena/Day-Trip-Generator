@@ -23,7 +23,10 @@ import random
 # (10 points): As a user, I want to be able to confirm that my day trip is "complete" 
 # once I like all of the random selections. 
 
+destination = ['Bali', 'Dominican Republic', 'Iceland', 'Italy', 'Colombia', 'New Zealand']
 
+random_number = random.choice(destination)
 
+print(random_number)
 
 
