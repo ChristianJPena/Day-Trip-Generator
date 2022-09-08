@@ -62,7 +62,7 @@ def trip_confirmation():
         print("")
         print(f'Congrats! you will be heading to {random_des}, arriving by {random_mot} where you will eat at {random_res} and afterwards, enjoy {random_foe} for entertainment!')
         print("")
-        print("Happy Travels!")
+        print("Be Safe & Happy Travels!")
         print("")
         travel_approval = False
     elif user_choice == 'n'or user_choice == 'N':
@@ -91,7 +91,7 @@ def trip_confirmation():
             elif select_pop == '5':
                 print(f'Congrats! you will be heading to {random_des}, arriving by {random_mot} where you will eat at {random_res} and afterwards, enjoy {random_foe} for entertainment!')
                 print("")
-                print("Happy Travels!")
+                print("Be Safe & Happy Travels!")
                 print("")
                 travel_approval = False
         
