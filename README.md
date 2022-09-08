@@ -11,3 +11,5 @@ Watch the "How To - What Are User Stories?" video
 Watch the "Project Walkthrough - Day Trip Generator" lesson to get an overview of the user stories, and the expected final product. 
 Download the User Stories document and Project Framework document. Review these closely!
 Be sure to follow the setup steps in the Project Framework document.
+
+Once you are done, please upload project to your gradebook
