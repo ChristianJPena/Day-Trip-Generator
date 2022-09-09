@@ -53,7 +53,6 @@ def trip_confirmation():
     random_mot = random.choice(mode_of_transportation)
     random_foe = random.choice(form_of_entertainment)
     display_trip(random_des,random_mot,random_res,random_foe)
-    print("")
     user_choice = input("Do you approve of your Day Trip? (y/n):")
     if user_choice == 'y' or user_choice == 'Y':
         print(f'Congrats! you will be heading to {random_des}, arriving by {random_mot} where you will eat at {random_res} and afterwards, enjoy {random_foe} for entertainment!\n')
